@@ -1,0 +1,10 @@
+La inteligencia artificial aprende patrones a partir de ejemplos.
+Un modelo de lenguaje intenta predecir el siguiente elemento de una secuencia.
+Aprender requiere curiosidad, práctica y experimentos cuidadosos.
+Cada día puedo formular una pregunta y comprobar una hipótesis.
+Los datos de entrenamiento enseñan regularidades, pero también sus límites.
+Una evaluación separada ayuda a saber si el modelo generaliza.
+La atención permite relacionar partes distintas del contexto.
+Las representaciones vectoriales permiten comparar significados aproximados.
+La programación convierte ideas en experimentos que podemos repetir.
+Un resultado inesperado también es una oportunidad para aprender.
